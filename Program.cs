@@ -46,6 +46,8 @@ namespace _6.Working_with_numbers
             //power functions get the value of number to the power of another number
             Console.WriteLine(Math.Pow(2, 4));
 
+
+            Console.WriteLine(Math.Max(5, 6));
             Console.Read();
 
         }
